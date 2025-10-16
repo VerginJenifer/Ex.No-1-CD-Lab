@@ -4,7 +4,7 @@
 
 ## Register Number : 212223240174
 
-## Date :
+## Date :  22/08/2025
 
 ## AIM:
       To write a C program to implement a symbol table.
